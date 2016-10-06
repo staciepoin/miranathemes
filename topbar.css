@@ -5,6 +5,7 @@ ul#nav {
   height: 77px;
   box-sizing: border-box;
   border-bottom: 1px solid #dbdbdb;
+  display: block;
 }
 
 li {
