@@ -36,6 +36,7 @@ input {
   background: #fafafa;
   border-radius: 3px;
   transition: .3s;
+  border: 1px solid #dbdbdb;
 }
 
 form {
