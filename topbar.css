@@ -1,7 +1,7 @@
 ul#nav {
   list-style-type: none;
   background-color: #fff;
-  padding: 21px 169.5px;
+  padding: 21px 209.5px;
   height: 77px;
   box-sizing: border-box;
   border-bottom: 1px solid #dbdbdb;
@@ -20,7 +20,6 @@ li a {
 .blog {
   font: 27.5px 'Lobster Two';
   width: 357.5px;
-  margin-left: 40px;
   box-sizing: border-box;
 }
 
@@ -66,7 +65,7 @@ input:focus {
 }
 
 .ask {
-  margin-left: 243px;
+  margin-left: 203px;
 }
 
 .likes,
