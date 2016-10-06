@@ -1,4 +1,4 @@
-ul#nav{
+ul#nav {
   list-style-type: none;
   background-color: #fff;
   padding: 21px 169.5px;
@@ -55,7 +55,9 @@ input:focus {
   background-color: transparent;
 }
 
-.ask, .likes, .tags {
+.ask,
+.likes,
+.tags {
   box-sizing: border-box;
   font-size: 28px;
   color: #555;
@@ -67,6 +69,7 @@ input:focus {
   margin-left: 243px;
 }
 
-.likes, .tags {
+.likes,
+.tags {
   margin-left: 30px;
 }
