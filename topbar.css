@@ -35,18 +35,18 @@ input {
   background: #fafafa;
   border-radius: 3px;
   transition: .3s;
-  border: 1px solid #dbdbdb;
+  border: 0;
 }
 
 form {
-  border: 1px solid #dbdbdb;
+  border: 1px solid #dbdbdb!important;
   border-radius: 3px;
   padding: 0;
   width: 215px;
   box-sizing: border-box;
   height: 28px;
   text-align: center;
-  margin: 3.5px 0;
+  margin: 3.5px 0!important;
 }
 
 input:focus {
